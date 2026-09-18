@@ -6,11 +6,13 @@
 
 <h1 align="center">Learn Linux</h1>
 
-<p align="center"><strong>A practical, step-by-step learning path built around real hands-on work.</strong></p>
+<p align="center"><strong>A free, practical, step-by-step learning path built around real hands-on work.</strong></p>
 
-<p align="center"><img alt="Courses: 8" src="https://img.shields.io/badge/Courses-8-2563eb?style=flat-square"> <img alt="Projects: 24" src="https://img.shields.io/badge/Projects-24-7c3aed?style=flat-square"> <img alt="Labs: 688" src="https://img.shields.io/badge/Labs-688-0f766e?style=flat-square"> <img alt="Skills: 86" src="https://img.shields.io/badge/Skills-86-0891b2?style=flat-square"> <img alt="Hours: 65" src="https://img.shields.io/badge/Hours-65-ea580c?style=flat-square"> <img alt="Learners: 896.2K+" src="https://img.shields.io/badge/Learners-896.2K%2B-16a34a?style=flat-square"></p>
+<p align="center"><img alt="Courses: 8" src="https://img.shields.io/badge/Courses-8-2563eb?style=flat-square"> <img alt="Projects: 24" src="https://img.shields.io/badge/Projects-24-7c3aed?style=flat-square"> <img alt="Labs: 688" src="https://img.shields.io/badge/Labs-688-0f766e?style=flat-square"> <img alt="Skills: 86" src="https://img.shields.io/badge/Skills-86-0891b2?style=flat-square"> <img alt="Hours: 65" src="https://img.shields.io/badge/Hours-65-ea580c?style=flat-square"></p>
 
-<p align="center"><a href="https://labex.io/learn/linux"><img src="https://img.shields.io/badge/Start_Learning-Free-16a34a?style=for-the-badge" alt="Start learning Linux for free"></a></p>
+<p align="center"><a href="https://labex.io/learn/linux"><img src="https://img.shields.io/badge/Start%20Learning-Free-16a34a?style=for-the-badge" alt="Start Learning"></a></p>
+
+**Languages:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
 Practical Linux courses on a structured path for beginners. Follow a clear roadmap from the command line through system administration and shell scripting. Build real skills with hands-on, non-video exercises in an interactive shell playground focused on managing Linux systems and automating tasks.
 
@@ -31,14 +33,14 @@ Practical Linux courses on a structured path for beginners. Follow a clear roadm
 <td width="50%" valign="top">
   <a href="https://labex.io/courses/quick-start-with-linux"><img src="https://course-cover.labex.io/quick-start-with-linux.png" alt="Quick Start with Linux" width="100%"></a><br><br>
   <strong>1. <a href="https://labex.io/courses/quick-start-with-linux">Quick Start with Linux</a></strong><br>
-  <sub>Beginner · 10 hands-on labs · 597.1K+ learners</sub><br><br>
+  <sub>Beginner · 10 hands-on labs</sub><br><br>
   This is a beginner&#x27;s guide for Linux aimed at those new to the system and looking to begin promptly. By completing ten labs, you will grasp the basics of Linux, enabling you to perform fundamental tasks with ease.<br><br>
   <a href="https://labex.io/courses/quick-start-with-linux"><strong>Start course →</strong></a>
 </td>
 <td width="50%" valign="top">
   <a href="https://labex.io/courses/become-a-junior-system-administrator"><img src="https://course-cover.labex.io/become-a-junior-system-administrator.png" alt="Become a Junior System Administrator" width="100%"></a><br><br>
   <strong>2. <a href="https://labex.io/courses/become-a-junior-system-administrator">Become a Junior System Administrator</a></strong><br>
-  <sub>Beginner · 10 hands-on labs · 20.8K+ learners</sub><br><br>
+  <sub>Beginner · 10 hands-on labs</sub><br><br>
   Simulate the initial days of tasks a junior engineer might encounter in their role. This hands-on experience covers essential system administration tasks from system navigation to user management, which might typically…<br><br>
   <a href="https://labex.io/courses/become-a-junior-system-administrator"><strong>Start course →</strong></a>
 </td>
@@ -47,14 +49,14 @@ Practical Linux courses on a structured path for beginners. Follow a clear roadm
 <td width="50%" valign="top">
   <a href="https://labex.io/courses/linux-for-noobs"><img src="https://course-cover.labex.io/linux-for-noobs.png" alt="Linux for Noobs" width="100%"></a><br><br>
   <strong>3. <a href="https://labex.io/courses/linux-for-noobs">Linux for Noobs</a></strong><br>
-  <sub>Beginner · 37 hands-on labs · 59.4K+ learners</sub><br><br>
+  <sub>Beginner · 37 hands-on labs</sub><br><br>
   This course offers a systematic and comprehensive introduction to Linux, designed specifically for absolute beginners with no prior experience. Starting from the very basics, you&#x27;ll build a solid foundation of Linux…<br><br>
   <a href="https://labex.io/courses/linux-for-noobs"><strong>Start course →</strong></a>
 </td>
 <td width="50%" valign="top">
   <a href="https://labex.io/courses/linux-basic-commands-practice-online"><img src="https://course-cover.labex.io/linux-basic-commands-practice-online.png" alt="Linux Commands Practice Online" width="100%"></a><br><br>
   <strong>4. <a href="https://labex.io/courses/linux-basic-commands-practice-online">Linux Commands Practice Online</a></strong><br>
-  <sub>Beginner · 41 hands-on labs · 61.8K+ learners</sub><br><br>
+  <sub>Beginner · 41 hands-on labs</sub><br><br>
   In this course, you will practice the most commonly used Linux commands in LabEx online Linux playground. It can help Linux beginners quickly learn common Linux terminal commands and the basic operation of Linux. It can…<br><br>
   <a href="https://labex.io/courses/linux-basic-commands-practice-online"><strong>Start course →</strong></a>
 </td>
@@ -63,14 +65,14 @@ Practical Linux courses on a structured path for beginners. Follow a clear roadm
 <td width="50%" valign="top">
   <a href="https://labex.io/courses/shell-for-beginners"><img src="https://course-cover.labex.io/shell-for-beginners.png" alt="Shell for Beginners" width="100%"></a><br><br>
   <strong>5. <a href="https://labex.io/courses/shell-for-beginners">Shell for Beginners</a></strong><br>
-  <sub>Beginner · 18 hands-on labs · 18.2K+ learners</sub><br><br>
+  <sub>Beginner · 18 hands-on labs</sub><br><br>
   This course offers a solid foundation in Bash shell scripting, covering Linux command-line essentials. Through hands-on labs and real-world challenges, you&#x27;ll master file management, text processing, and automation…<br><br>
   <a href="https://labex.io/courses/shell-for-beginners"><strong>Start course →</strong></a>
 </td>
 <td width="50%" valign="top">
   <a href="https://labex.io/courses/comptia-linux-plus-training-labs"><img src="https://course-cover.labex.io/comptia-linux-plus-training-labs.png" alt="CompTIA Linux+ Certification Training Labs" width="100%"></a><br><br>
   <strong>6. <a href="https://labex.io/courses/comptia-linux-plus-training-labs">CompTIA Linux+ Certification Training Labs</a></strong><br>
-  <sub>Beginner · 33 hands-on labs · 7.5K+ learners</sub><br><br>
+  <sub>Beginner · 33 hands-on labs</sub><br><br>
   Learn Linux system administration through hands-on labs, covering command-line, file management, user administration, security, networking, and maintenance. Perfect for CompTIA Linux+ certification prep.<br><br>
   <a href="https://labex.io/courses/comptia-linux-plus-training-labs"><strong>Start course →</strong></a>
 </td>
@@ -79,14 +81,14 @@ Practical Linux courses on a structured path for beginners. Follow a clear roadm
 <td width="50%" valign="top">
   <a href="https://labex.io/courses/linux-security-for-devsecops"><img src="https://course-cover.labex.io/linux-security-for-devsecops.png" alt="Linux Security for DevSecOps" width="100%"></a><br><br>
   <strong>7. <a href="https://labex.io/courses/linux-security-for-devsecops">Linux Security for DevSecOps</a></strong><br>
-  <sub>Beginner · 20 hands-on labs · 684 learners</sub><br><br>
+  <sub>Beginner · 20 hands-on labs</sub><br><br>
   A hands-on Linux security course for DevSecOps learners focused on service exposure, web hardening, file permissions, sudo, secrets, root-run automation, service identity, runtime configuration, logs, scripts, and…<br><br>
   <a href="https://labex.io/courses/linux-security-for-devsecops"><strong>Start course →</strong></a>
 </td>
 <td width="50%" valign="top">
   <a href="https://labex.io/courses/linux-practice-challenges"><img src="https://course-cover.labex.io/linux-practice-challenges.png" alt="Linux Practice Challenges" width="100%"></a><br><br>
   <strong>8. <a href="https://labex.io/courses/linux-practice-challenges">Linux Practice Challenges</a></strong><br>
-  <sub>Beginner · 156 hands-on labs · 3.6K+ learners</sub><br><br>
+  <sub>Beginner · 156 hands-on labs</sub><br><br>
   In this course, you will find a collection of Linux practice challenges that will help you to improve your Linux skills. These challenges are designed to help you learn and practice Linux commands, shell scripting, and…<br><br>
   <a href="https://labex.io/courses/linux-practice-challenges"><strong>Start course →</strong></a>
 </td>
