@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://labex.io/pt/learn/linux">
-    <img width="160" src="https://file.labex.io/upload/u/1991/GXJSo2W4OcyY.png" alt="Aprenda Linux">
+    <img width="160" src="https://file.labex.io/upload/u/1991/GXJSo2W4OcyY.png" alt="Aprenda Linux Skill Tree">
   </a>
 </p>
 
-<h1 align="center">Aprenda Linux</h1>
+<h1 align="center">Aprenda Linux Skill Tree</h1>
 
 <p align="center"><strong>Uma trilha de aprendizagem gratuita, prática e passo a passo, baseada em experiência real.</strong></p>
 
@@ -26,7 +26,7 @@ Cursos práticos de Linux em um caminho para iniciantes: da linha de comando à 
 </tr>
 </table>
 
-## Cursos de Linux
+## Cursos de Linux Skill Tree
 
 <table>
 <tr>
@@ -133,7 +133,7 @@ Os cursos ensinam o processo; os projetos comprovam a aplicação. Abra qualquer
 
 ## Pronto para começar?
 
-[Inicie a trilha completa de Linux no LabEx →](https://labex.io/pt/learn/linux)
+[Inicie a trilha completa de Linux Skill Tree no LabEx →](https://labex.io/pt/learn/linux)
 
 ## Sobre o LabEx
 
